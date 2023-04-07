@@ -1,6 +1,6 @@
 # AutOS - Repair Shop
 
-<img src="images/AutOS.png" alt="logo" width="500" height="300">
+<img src="images/AutOS.png" alt="logo" width="500" height="400">
 
 ### About Project
 **AutOS** is a company that provides CRM solutions to auto repair facilities.
