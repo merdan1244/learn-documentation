@@ -1,6 +1,6 @@
 # AutOS - Repair Shop
 
-<img src="images/AutOS.png" alt="logo" width="500" height="400" class="center">
+<img src="images/AutOS.png" alt="logo" width="500" height="400" class="center"> 
 
 ### About Project
 **AutOS** is a company that provides CRM solutions to auto repair facilities.
@@ -22,3 +22,9 @@ bash scripts/bye.sh
 ### Contributors 
 
 - @merdan1244
+
+
+### Links
+
+[Ansible Docs](https://docs.ansible.com/)
+[AWS Docs](https://docs.aws.amazon.com/)
