@@ -1,5 +1,7 @@
 # AutOS - Repair Shop
 
+![logo](images/AutOS.png)
+
 ### About Project
 **AutOS** is a company that provides CRM solutions to auto repair facilities.
 
