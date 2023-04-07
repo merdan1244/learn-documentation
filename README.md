@@ -6,5 +6,5 @@ Learn how to write a good README.md
 #### This is heading 4
 **This is bold text**
 
-*This is italized text*
+
 ***This is bold italized text***
